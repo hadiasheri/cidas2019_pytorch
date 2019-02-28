@@ -24,4 +24,5 @@ We only need torch, torchvision, numpy, matplotlib, and jupyter notebook, prefer
 You can run your code on some google machines for free.
 
 Go to https://colab.research.google.com and sign in with your google account (you need one to use colab)
+
 File --> open notebook --> https://github.com/hadiasheri/cidas2019_pytorch.git
