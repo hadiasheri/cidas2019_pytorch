@@ -30,6 +30,5 @@ File --> open notebook --> https://github.com/hadiasheri/cidas2019_pytorch.git
 **Note**
 
 Most of the materials are borrowed from popular publicly available resources:
-
--- Python-numpy: http://cs231n.github.io/python-numpy-tutorial/
--- Pytorch: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+-  Python-numpy: http://cs231n.github.io/python-numpy-tutorial/
+-  Pytorch: https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
